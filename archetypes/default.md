@@ -3,12 +3,14 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 subtitle: ""
 date: {{ .Date }}
 lastmod: {{ .Date }}
-draft: true
-author: ""
-authorLink: ""
+draft: false
+author: "暗示大好人啊"
+authorLink: "https://zanelewes.github.io/loveit/"
 description: ""
-license: ""
 images: []
+resources:
+- name: ""
+  src: ""
 
 tags: []
 categories: []

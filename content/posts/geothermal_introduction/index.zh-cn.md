@@ -1,20 +1,22 @@
 ---
 title: "地热资源简介🌋"
-subtitle: ""
-date: 2022-11-02T01:03:09+08:00
-lastmod: 2022-11-02T01:03:09+08:00
+subtitle: "我们的地球很热情"
+date: 2022-11-02T01:26:05+08:00
+lastmod: 2022-11-02T01:26:05+08:00
 draft: false
 author: "暗示大好人啊"
-authorLink: ""
+authorLink: "https://zanelewes.github.io/loveit/"
 description: "我们的地球很热情♨️"
-license: ""
-images: ["https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202210310116578.jpg"]
+images: []
+resources: 
+- name: "我们的地球很热情"
+  src: "Earth's interior.jpg"
 
 tags: []
 categories: []
 
-featuredImage: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202210310116578.jpg"
-featuredImagePreview: "我们的地球很热情"
+featuredImage: "我们的地球很热情"
+featuredImagePreview: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202210310116578.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
