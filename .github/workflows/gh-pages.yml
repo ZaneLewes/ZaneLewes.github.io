@@ -1,0 +1,27 @@
+name: PUBLISH_TO_gh
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@master
+        with:
+          submodules: true
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.75.1'
+          extended: true
+      - name: Build
+        run: hugo --minify -e production
+      # - name: Add CNAME file
+      #   run: echo 'agou-ops.cn' > public/CNAME
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          publish_dir: ./public
