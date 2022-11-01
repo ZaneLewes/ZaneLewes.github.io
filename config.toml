@@ -160,7 +160,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     author = true
     # site creation time
     # 网站创立年份
-    since = 2019
+    since = 2022
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
@@ -267,7 +267,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+      subtitle = "大好人的网站"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -287,7 +287,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = ""
+    GitHub = "https://github.com/ZaneLewes"
     Linkedin = ""
     Twitter = ""
     Instagram = ""
@@ -864,19 +864,19 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "大好人的网站"
           typeit = true
           social = true
           disclaimer = ""
       [languages.en.params.social]
-        GitHub = "xxxx"
+        GitHub = "ZaneLewes"
         Twitter = "xxxx"
         Instagram = "xxxx"
         Facebook = "xxxx"
         Telegram = "xxxx"
         Youtubelegacy = "xxxx"
         Phone = "555-555-555"
-        Email = "xxxx@xxxx.com"
+        Email = "tennis_forever@163.com"
         RSS = true
         [languages.en.params.social.Mastodon]
           id = "@xxxx"
@@ -957,7 +957,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "一个简洁、优雅且高效的 Hugo 主题"
+          subtitle = "大好人的网站"
           typeit = true
           social = true
           disclaimer = ""
