@@ -4,7 +4,7 @@ subtitle: "我们的地球很热情♨️"
 date: 2022-11-02T01:26:05+08:00
 lastmod: 2022-11-02T01:26:05+08:00
 draft: false
-author: "暗示大好人啊"
+author: "俺是大好人啊"
 authorLink: "https://zanelewes.github.io/loveit/"
 description: "我们的地球很热情♨️"
 images: []
