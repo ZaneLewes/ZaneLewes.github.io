@@ -142,7 +142,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # 是否为标题显示打字机动画
       typeit = false
 
-  [params.reward]                                         # 文章打赏
+    [params.reward]                                         # 文章打赏
     enable = true
     wechat = "/images/wechat-qr-code.jpg"           # 微信二维码
     # alipay = "/path/to/your/alipay-qr-code.png"    
@@ -507,6 +507,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         repo = ""
         clientId = ""
         clientSecret = ""
+      
+      
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
@@ -537,6 +539,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         # 可以在你的项目下相同路径存放你自己的数据文件:
         # "assets/lib/valine/emoji/"
         emoji = ""
+      
+      
       # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
       # Facebook 评论系统设置 (https://developers.facebook.com/docs/plugins/comments)
       [params.page.comment.facebook]
@@ -861,7 +865,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         highlightTag = "em"
         absoluteURL = false
         [languages.en.params.search.algolia]
-          index = "index.en"
+          index = "index.zh-cn"
           appID = "PASDMWALPK"
           searchKey = "b42948e51daaa93df92381c8e2ac0f93"
       [languages.en.params.home]
