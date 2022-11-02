@@ -370,7 +370,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     hiddenFromHomePage = false
     # whether to hide a page from search results
     # 是否在搜索结果中隐藏一篇文章
-    hiddenFromSearch = false
+    hiddenFromSearch = true
     # whether to enable twemoji
     # 是否使用 twemoji
     twemoji = false
