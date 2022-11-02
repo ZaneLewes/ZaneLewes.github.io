@@ -157,7 +157,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     custom = ""
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
-    hugo = true
+    hugo = false
     # whether to show copyright info
     # 是否显示版权信息
     copyright = true
@@ -279,7 +279,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       typeit = true
       # whether to show social links
       # 是否显示社交账号
-      social = false
+      social = true
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
       disclaimer = ""
@@ -873,7 +873,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/images/avatar.png"
+          avatarURL = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211022139426.png"
           title = ""
           subtitle = "大好人的网站"
           typeit = true
@@ -881,17 +881,17 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           disclaimer = ""
       [languages.en.params.social]
         GitHub = "ZaneLewes"
-        Twitter = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
-        Youtubelegacy = "xxxx"
-        Phone = "555-555-555"
+        #Twitter = "xxxx"
+        #Instagram = "xxxx"
+        #Facebook = "xxxx"
+        #Telegram = "xxxx"
+        #Youtubelegacy = "xxxx"
+        #Phone = "555-555-555"
         Email = "tennis_forever@163.com"
-        RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
+        #RSS = true
+        #[languages.en.params.social.Mastodon]
+          #id = "@xxxx"
+          #prefix = "https://mastodon.technology/"
 
   
   
@@ -968,7 +968,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.zh-cn.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/images/avatar.png"
+          avatarURL = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211022139426.png"
           title = ""
           subtitle = "大好人的网站"
           typeit = true
@@ -976,12 +976,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           disclaimer = ""
       [languages.zh-cn.params.social]
         GitHub = "ZaneLewes"
-        Weibo = "xxxx"
-        Steam = "xxxx"
-        Zhihu = "xxxx"
-        Douban = "xxxx"
-        Devto = "xxxx"
-        Bilibili = "xxxx"
+        #Weibo = "xxxx"
+        #Steam = "xxxx"
+        #Zhihu = "xxxx"
+        #Douban = "xxxx"
+        #Devto = "xxxx"
+        #Bilibili = "xxxx"
         Email = "tennis_forever@163.com"
-        Phone = "555-555-555"
-        RSS = true
+        #Phone = "555-555-555"
+        #RSS = true
