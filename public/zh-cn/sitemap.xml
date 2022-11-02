@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://zanelewes.github.io/loveit/categories/</loc><lastmod>2022-11-02T17:52:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://zanelewes.github.io/loveit/categories/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://zanelewes.github.io/loveit/en/categories/"
@@ -11,12 +11,11 @@
                     hreflang="zh-cn"
                     href="https://zanelewes.github.io/loveit/categories/"
                     /></url><url>
-            <loc>https://zanelewes.github.io/loveit/tags/gmt/</loc><lastmod>2022-11-02T17:52:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://zanelewes.github.io/loveit/categories/gmt/</loc><lastmod>2022-11-02T17:52:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://zanelewes.github.io/loveit/gmt_intro/</loc><lastmod>2022-11-02T17:52:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://zanelewes.github.io/loveit/tags/mapping/</loc><lastmod>2022-11-02T17:52:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://zanelewes.github.io/loveit/posts/</loc><lastmod>2022-11-02T17:52:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://zanelewes.github.io/loveit/tags/</loc><lastmod>2022-11-02T17:52:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://zanelewes.github.io/loveit/tags/gmt/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zanelewes.github.io/loveit/categories/gmt/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zanelewes.github.io/loveit/tags/mapping/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zanelewes.github.io/loveit/posts/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zanelewes.github.io/loveit/tags/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://zanelewes.github.io/loveit/en/tags/"
@@ -25,7 +24,7 @@
                     hreflang="zh-cn"
                     href="https://zanelewes.github.io/loveit/tags/"
                     /></url><url>
-            <loc>https://zanelewes.github.io/loveit/</loc><lastmod>2022-11-02T17:52:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://zanelewes.github.io/loveit/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://zanelewes.github.io/loveit/en/"
@@ -34,6 +33,9 @@
                     hreflang="zh-cn"
                     href="https://zanelewes.github.io/loveit/"
                     /></url><url>
+            <loc>https://zanelewes.github.io/loveit/gmt_s2/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zanelewes.github.io/loveit/gmt_s1/</loc><lastmod>2022-11-02T20:40:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zanelewes.github.io/loveit/gmt_intro/</loc><lastmod>2022-11-02T17:52:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://zanelewes.github.io/loveit/categories/geosciences/</loc><lastmod>2022-11-02T01:26:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://zanelewes.github.io/loveit/tags/geothermal/</loc><lastmod>2022-11-02T01:26:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://zanelewes.github.io/loveit/geothermal_introduction/</loc><lastmod>2022-11-02T01:26:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>

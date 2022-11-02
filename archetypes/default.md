@@ -4,13 +4,10 @@ subtitle: ""
 date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: false
-author: "暗示大好人啊"
+author: "俺是大好人啊"
 authorLink: "https://zanelewes.github.io/loveit/"
 description: ""
-images: []
-resources:
-- name: ""
-  src: ""
+
 
 tags: []
 categories: []
@@ -62,3 +59,17 @@ seo:
 ---
 
 <!--more-->
+
+
+
+
+
+
+
+
+
+-------------------------------------------
+
+{{< admonition tip "欢迎关注" >}}
+同时欢迎关注我导的微信公众号***为有源头热水来*** ，里边有更高级的内容值得我好好学习！
+{{< /admonition >}}

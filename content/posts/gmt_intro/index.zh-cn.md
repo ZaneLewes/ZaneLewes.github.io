@@ -6,7 +6,7 @@ lastmod: 2022-11-02T17:52:30+08:00
 draft: false
 author: "暗示大好人啊"
 authorLink: "https://zanelewes.github.io/loveit/"
-description: "从这里开始，简单介绍GMT绘图！👨🏽‍💻"
+description: "GMT绘图系列——从这里开始，简单介绍GMT绘图！👨🏽‍💻"
 
 
 
@@ -90,6 +90,8 @@ GMT部署了内容丰富的[GMT中文社区](https://gmt-china.org/)网站，包
 ### GMT的安装
 {{< bilibili BV1C64y1m7qP 2 >}}
 ##### 上述内容均引用自[GMT中文社区](https://gmt-china.org/)  
+-------------------------------------------
+
 {{< admonition tip "欢迎关注" >}}
 同时欢迎关注我导的微信公众号***为有源头热水来*** ，里边有更高级的内容值得我好好学习！
 {{< /admonition >}}
