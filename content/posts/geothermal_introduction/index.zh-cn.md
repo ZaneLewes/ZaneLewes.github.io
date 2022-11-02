@@ -44,6 +44,9 @@ share:
   enable: true
   # ...
 comment:
+  enable: true  
+  #...
+reward:
   enable: true
   # ...
 library:
