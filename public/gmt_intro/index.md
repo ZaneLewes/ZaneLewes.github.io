@@ -31,5 +31,8 @@ GMT目前的最新版本为[💼GMT (> 6.4.0)](https://docs.gmt-china.org/latest
 GMT部署了内容丰富的[GMT中文社区](https://gmt-china.org/)网站，包含操作介绍十分详尽的[中文手册](https://docs.gmt-china.org/latest/)、各种[绘图实例](https://docs.gmt-china.org/latest/gallery/)和各种[数据集](https://docs.gmt-china.org/latest/dataset-CN/)。同时，在[哔哩哔哩](https://www.bilibili.com/video/BV1C64y1m7qP/)提供了教学视频。
 ### GMT的安装
 {{< bilibili BV1C64y1m7qP 2 >}}
-> 上述内容均引用自[GMT中文社区](https://gmt-china.org/)  
-> 同时欢迎关注我导的微信公众号***为有源头热水来*** ，里边有更高级的内容值得我好好学习！
+##### 上述内容均引用自[GMT中文社区](https://gmt-china.org/)  
+{{< admonition tip "欢迎关注" >}}
+同时欢迎关注我导的微信公众号***为有源头热水来*** ，里边有更高级的内容值得我好好学习！
+{{< /admonition >}}
+
