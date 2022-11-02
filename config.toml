@@ -267,13 +267,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = "/images/avatar.png"
+      avatarURL = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211022139426.png"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "大好人的网站"
+      subtitle = ""
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -875,7 +875,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211022139426.png"
           title = ""
-          subtitle = "大好人的网站"
+          subtitle = "寻到源头方悟彻 登来巅顶莫辞劳"
           typeit = true
           social = true
           disclaimer = ""
@@ -885,7 +885,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         #Instagram = "xxxx"
         #Facebook = "xxxx"
         #Telegram = "xxxx"
-        #Youtubelegacy = "xxxx"
+        Youtubelegacy = "cctv"
         #Phone = "555-555-555"
         Email = "tennis_forever@163.com"
         #RSS = true
@@ -970,7 +970,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211022139426.png"
           title = ""
-          subtitle = "大好人的网站"
+          subtitle = "寻到源头方悟彻 登来巅顶莫辞劳"
           typeit = true
           social = true
           disclaimer = ""
@@ -981,7 +981,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         #Zhihu = "xxxx"
         #Douban = "xxxx"
         #Devto = "xxxx"
-        #Bilibili = "xxxx"
+        Bilibili = "1131457022"
         Email = "tennis_forever@163.com"
+        Googlescholar= "user=KffhgEcAAAAJ&hl=zh-CN"
+        Youtubecustom = "cctv"
         #Phone = "555-555-555"
         #RSS = true

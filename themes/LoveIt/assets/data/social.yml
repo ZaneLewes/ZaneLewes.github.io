@@ -65,7 +65,7 @@ gitlab:
 # 009: YouTube Legacy
 youtubelegacy:
   Weight: 9
-  Prefix: https://www.youtube.com/user/
+  Prefix: https://www.youtube.com/use/
   Title: YouTube
   Icon:
     Class: fab fa-youtube fa-fw
