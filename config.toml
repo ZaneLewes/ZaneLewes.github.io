@@ -527,7 +527,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         highlight = true
         enableQQ = false
         #serverURLs = "https://vqz7sxwz.lc-cn-n1-shared.com"
-        serverURLs = "https://vqz7sxwz.lc-cn-n1-shared.com"
+        serverURLs = "https://thxwzywz.lc-cn-n1-shared.com"
         # emoji data file name, default is "google.yml"
         # ["apple.yml", "google.yml", "facebook.yml", "twitter.yml"]
         # located in "themes/LoveIt/assets/lib/valine/emoji/" directory
