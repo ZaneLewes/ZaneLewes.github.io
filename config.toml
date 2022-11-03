@@ -2,10 +2,12 @@ baseURL = "https://zanelewes.github.io"
 
 # theme
 # 主题
-theme = "LoveIt"
+theme = ["hugo-search-fuse-js", "LoveIt"]
+# theme = "LoveIt"
 # themes directory
 # 主题目录
 # themesDir = "../.."
+
 
 # website title
 # 网站标题
@@ -55,6 +57,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   email = "tennis_forever@163.com"
   link = ""
 
+
 # Menu config
 # 菜单配置
 [menu]
@@ -88,6 +91,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Categories"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+    pre = "<i class='fas fa-fw fa-search'></i>"
+    name = "搜索"
+    weight = 7
+    identifier = "search"
+    url = "/search/"
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -227,7 +236,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Search config
   # 搜索配置
   [params.search]
-    enable = true
+    enable = false
     # type of search engine ["lunr", "algolia"]
     # 搜索引擎的类型 ["lunr", "algolia"]
     type = "algolia"
@@ -856,9 +865,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = ""
         url = "https://github.com/ZaneLewes/"
         title = "GitHub"
+
+      [[languages.en.menu.main]]
+	      pre = "<i class='fas fa-fw fa-search'></i>"
+	      name = "Search"
+	      weight = 7
+	      identifier = "search"
+	      url = "/search/"
+
+
     [languages.en.params]
       [languages.en.params.search]
-        enable = true
+        enable = false
         type = "algolia"
         contentLength = 4000
         placeholder = ""
@@ -951,9 +969,17 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = ""
         url = "https://github.com/ZaneLewes/"
         title = "GitHub"
+
+      [[languages.zh-cn.menu.main]]
+	      pre = "<i class='fas fa-fw fa-search'></i>"
+	      name = "搜索"
+	      weight = 7
+	      identifier = "search"
+	      url = "/search/"
+
     [languages.zh-cn.params]
       [languages.zh-cn.params.search]
-        enable = true
+        enable = false
         type = "algolia"
         contentLength = 4000
         placeholder = ""
