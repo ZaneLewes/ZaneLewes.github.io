@@ -146,8 +146,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   [params.reward]                            # 文章打赏
     enable = true
-    wechat = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211032150586.jpg"           # 微信二维码
-    # alipay = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211032150586.jpg"           # 支付宝二维码
+    wechat = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211032202647.jpg"           # 微信二维码
+    alipay = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211032202647.jpg"           # 支付宝二维码
 
 
   # Footer config
