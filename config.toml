@@ -142,10 +142,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # 是否为标题显示打字机动画
       typeit = false
 
-    [params.reward]                                         # 文章打赏
-    enable = true
-    wechat = "/images/wechat-qr-code.jpg"           # 微信二维码
-    # alipay = "/path/to/your/alipay-qr-code.png"    
+      
 
 
   # Footer config
