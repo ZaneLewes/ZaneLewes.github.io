@@ -136,13 +136,16 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i> "
       # you can add extra information after the name (HTML format is supported), such as icons
-      # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
-      post = ""
+      # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标  far fa-grin-tears
+      post = "<i class='far fa-face-grin-stars' aria-hidden='true'></i>"
       # whether to use typeit animation for title name
       # 是否为标题显示打字机动画
       typeit = false
 
-      
+  [params.reward]                            # 文章打赏
+    enable = true
+    wechat = "/images/wechat.jpg"           # 微信二维码
+    #alipay = "/images/alipay.png"           # 支付宝二维码
 
 
   # Footer config
