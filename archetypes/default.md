@@ -5,7 +5,7 @@ date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: false
 author: "俺是大好人啊"
-authorLink: "https://zanelewes.github.io/loveit/"
+authorLink: "https://zanelewes.github.io"
 description: ""
 
 

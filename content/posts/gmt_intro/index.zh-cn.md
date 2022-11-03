@@ -5,7 +5,7 @@ date: 2022-11-02T17:52:30+08:00
 lastmod: 2022-11-02T17:52:30+08:00
 draft: false
 author: "暗示大好人啊"
-authorLink: "https://zanelewes.github.io/loveit/"
+authorLink: "https://zanelewes.github.io"
 description: "GMT绘图系列——从这里开始，简单介绍GMT绘图！👨🏽‍💻"
 
 

@@ -5,7 +5,7 @@ date: 2022-11-02T20:55:55+08:00
 lastmod: 2022-11-02T20:55:55+08:00
 draft: false
 author: "俺是大好人啊"
-authorLink: "https://zanelewes.github.io/loveit/"
+authorLink: "https://zanelewes.github.io"
 description: "GMT绘图系列"
 
 
