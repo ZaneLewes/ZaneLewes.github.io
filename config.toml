@@ -113,7 +113,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["/logo.png"]
-  cdnPrefix = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202210311621154.png"
+
 
 
   # Header config
