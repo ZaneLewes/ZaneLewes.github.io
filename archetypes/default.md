@@ -8,6 +8,7 @@ author: "俺是大好人啊"
 authorLink: "https://zanelewes.github.io"
 description: ""
 
+reward: true
 
 tags: []
 categories: []
