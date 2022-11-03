@@ -1,4 +1,4 @@
-baseURL = "https://zanelewes.github.io/loveit"
+baseURL = "https://zanelewes.github.io"
 
 # theme
 # 主题
@@ -134,7 +134,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       name = "大好人"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>"
+      pre = "<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i> "
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
