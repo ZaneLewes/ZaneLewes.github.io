@@ -2,7 +2,7 @@
 title: "关于 大好人 的网站"
 date: 2019-08-02T11:04:49+08:00
 draft: false
-description: "关于 LoveIt"
+description: "关于 大好人 的网站"
 images: []
 
 lightgallery: true
@@ -21,4 +21,3 @@ math:
 <div align="center">
    <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211030022125.jpg"  width=32%> <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211030022124.jpg" width=32%> <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211030022123.jpg" width=32%>
 </div>
-
