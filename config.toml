@@ -16,10 +16,10 @@ title = "俺是大好人啊"
 defaultContentLanguage = "zh-cn"
 # language code ["en", "zh-CN", "fr", "pl", ...]
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
-languageCode = "zh-CN"
+languageCode = "zh-cn"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 # 语言名称 ["English", "简体中文", "Français", "Polski", ...]
-languageName = "简体中文"
+languageName = "English"
 # whether to include Chinese/Japanese/Korean
 # 是否包括中日韩文字
 hasCJKLanguage = false
@@ -106,10 +106,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "暗示大好人啊"
+  title = "LoveIt"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "大好人的网站"
+  description = "Hugo theme - LoveIt"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["/logo.png"]
@@ -131,7 +131,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       logo = ""
       # title name
       # 标题名称
-      name = "大好人"
+      name = "LoveIt"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>"
@@ -142,9 +142,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # 是否为标题显示打字机动画
       typeit = false
 
-      
-
-
   # Footer config
   # 页面底部信息配置
   [params.footer]
@@ -154,7 +151,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     custom = ""
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
-    hugo = false
+    hugo = true
     # whether to show copyright info
     # 是否显示版权信息
     copyright = true
@@ -163,7 +160,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     author = true
     # site creation time
     # 网站创立年份
-    since = 2022
+    since = 2019
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
@@ -202,7 +199,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "俺是大好人啊"
+    title = "LoveIt"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
@@ -264,13 +261,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211030103789.jpg"
+      avatarURL = "/images/avatar.png"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = ""
+      subtitle = "A Clean, Elegant but Advanced Hugo Theme"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -290,7 +287,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "https://github.com/ZaneLewes"
+    GitHub = ""
     Linkedin = ""
     Twitter = ""
     Instagram = ""
@@ -504,14 +501,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         repo = ""
         clientId = ""
         clientSecret = ""
-      
-      
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = true
-        appId = "ThxwZyWZsRfzxxRG7rNQRUCl-gzGzoHsz"
-        appKey = "D75Piyjyga83W0b9hGDbAUut"
+        appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
+        appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""
         avatar = "mp"
         meta= ""
@@ -523,8 +518,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         recordIP = true
         highlight = true
         enableQQ = false
-        #serverURLs = "https://vqz7sxwz.lc-cn-n1-shared.com"
-        serverURLs = "https://thxwzywz.lc-cn-n1-shared.com"
+        serverURLs = "https://leancloud.hugoloveit.com"
         # emoji data file name, default is "google.yml"
         # ["apple.yml", "google.yml", "facebook.yml", "twitter.yml"]
         # located in "themes/LoveIt/assets/lib/valine/emoji/" directory
@@ -536,8 +530,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         # 可以在你的项目下相同路径存放你自己的数据文件:
         # "assets/lib/valine/emoji/"
         emoji = ""
-      
-      
       # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
       # Facebook 评论系统设置 (https://developers.facebook.com/docs/plugins/comments)
       [params.page.comment.facebook]
@@ -615,7 +607,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Publisher info
       # 出版者信息
       [params.page.seo.publisher]
-        name = "gooodman"
+        name = "xxxx"
         logoUrl = "/images/avatar.png"
 
   # TypeIt config
@@ -797,7 +789,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # 多语言
 [languages]
   [languages.en]
-    weight = 2
+    weight = 1
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
@@ -849,7 +841,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/ZaneLewes/"
+        url = "https://github.com/dillonzq/LoveIt"
         title = "GitHub"
     [languages.en.params]
       [languages.en.params.search]
@@ -870,30 +862,28 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211030103789.jpg"
+          avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "寻到源头方悟彻 登来巅顶莫辞劳"
+          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
           typeit = true
           social = true
           disclaimer = ""
       [languages.en.params.social]
-        GitHub = "ZaneLewes"
-        #Twitter = "xxxx"
-        #Instagram = "xxxx"
-        #Facebook = "xxxx"
-        #Telegram = "xxxx"
-        Youtubelegacy = "cctv"
-        #Phone = "555-555-555"
-        Email = "tennis_forever@163.com"
-        #RSS = true
-        #[languages.en.params.social.Mastodon]
-          #id = "@xxxx"
-          #prefix = "https://mastodon.technology/"
+        GitHub = "xxxx"
+        Twitter = "xxxx"
+        Instagram = "xxxx"
+        Facebook = "xxxx"
+        Telegram = "xxxx"
+        Youtubelegacy = "xxxx"
+        Phone = "555-555-555"
+        Email = "xxxx@xxxx.com"
+        RSS = true
+        [languages.en.params.social.Mastodon]
+          id = "@xxxx"
+          prefix = "https://mastodon.technology/"
 
-  
-  
   [languages.zh-cn]
-    weight = 1
+    weight = 2
     languageCode = "zh-CN"
     languageName = "简体中文"
     hasCJKLanguage = true
@@ -944,7 +934,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/ZaneLewes/"
+        url = "https://github.com/dillonzq/LoveIt"
         title = "GitHub"
     [languages.zh-cn.params]
       [languages.zh-cn.params.search]
@@ -965,22 +955,20 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.zh-cn.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211030103789.jpg"
+          avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "寻到源头方悟彻 登来巅顶莫辞劳"
+          subtitle = "一个简洁、优雅且高效的 Hugo 主题"
           typeit = true
           social = true
           disclaimer = ""
       [languages.zh-cn.params.social]
-        GitHub = "ZaneLewes"
-        #Weibo = "xxxx"
-        #Steam = "xxxx"
-        #Zhihu = "xxxx"
-        #Douban = "xxxx"
-        #Devto = "xxxx"
-        Bilibili = "1131457022"
-        Email = "tennis_forever@163.com"
-        Googlescholar= "user=KffhgEcAAAAJ&hl=zh-CN"
-        Youtubecustom = "cctv"
-        #Phone = "555-555-555"
-        #RSS = true
+        GitHub = "xxxx"
+        Weibo = "xxxx"
+        Steam = "xxxx"
+        Zhihu = "xxxx"
+        Douban = "xxxx"
+        Devto = "xxxx"
+        Bilibili = "xxxx"
+        Email = "xxxx@xxxx.com"
+        Phone = "555-555-555"
+        RSS = true
