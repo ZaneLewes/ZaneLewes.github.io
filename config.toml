@@ -106,7 +106,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "暗示大好人啊"
+  title = "俺是大好人啊"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
   description = "大好人的网站"
