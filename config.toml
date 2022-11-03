@@ -53,7 +53,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [author]
   name = "俺是大好人啊"
   email = "tennis_forever@163.com"
-  link = "https://zanelewes.github.io"
+  link = ""
 
 # Menu config
 # 菜单配置
@@ -905,7 +905,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "所有文章"
-        url = "zanelewes.github.io/loveit/posts/"
+        url = "/posts/"
         title = ""
       [[languages.zh-cn.menu.main]]
         weight = 2
