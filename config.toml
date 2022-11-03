@@ -905,7 +905,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "所有文章"
-        url = "/posts/"
+        url = "posts/"
         title = ""
       [[languages.zh-cn.menu.main]]
         weight = 2
