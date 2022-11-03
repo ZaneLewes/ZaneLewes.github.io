@@ -1,1 +1,8 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Documentation - Category - 俺是大好人啊</title><link>https://zanelewes.github.io/loveit/en/categories/documentation/</link><description>Documentation - Category - 俺是大好人啊</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>tennis_forever@163.com (俺是大好人啊)</managingEditor><webMaster>tennis_forever@163.com (俺是大好人啊)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://zanelewes.github.io/loveit/en/categories/documentation/" rel="self" type="application/rss+xml"/></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Documentation - Category - 俺是大好人啊</title>
+        <link>https://zanelewes.github.io/loveit/en/categories/documentation/</link>
+        <description>Documentation - Category - 俺是大好人啊</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>tennis_forever@163.com (俺是大好人啊)</managingEditor>
+            <webMaster>tennis_forever@163.com (俺是大好人啊)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://zanelewes.github.io/loveit/en/categories/documentation/" rel="self" type="application/rss+xml" /></channel>
+</rss>
