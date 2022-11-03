@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>geothermal - 标签 - 俺是大好人啊</title>
-        <link>/tags/geothermal/</link>
+        <link>https://zanelewes.github.io/loveit/tags/geothermal/</link>
         <description>geothermal - 标签 - 俺是大好人啊</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tennis_forever@163.com (俺是大好人啊)</managingEditor>
-            <webMaster>tennis_forever@163.com (俺是大好人啊)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 02 Nov 2022 01:26:05 &#43;0800</lastBuildDate><atom:link href="/tags/geothermal/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>tennis_forever@163.com (俺是大好人啊)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 02 Nov 2022 01:26:05 &#43;0800</lastBuildDate><atom:link href="https://zanelewes.github.io/loveit/tags/geothermal/" rel="self" type="application/rss+xml" /><item>
     <title>地热资源简介🌋</title>
-    <link>/geothermal_introduction/</link>
+    <link>https://zanelewes.github.io/loveit/geothermal_introduction/</link>
     <pubDate>Wed, 02 Nov 2022 01:26:05 &#43;0800</pubDate>
     <author>俺是大好人啊</author>
-    <guid>/geothermal_introduction/</guid>
+    <guid>https://zanelewes.github.io/loveit/geothermal_introduction/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/%e6%88%91%e4%bb%ac%e7%9a%84%e5%9c%b0%e7%90%83%e5%be%88%e7%83%ad%e6%83%85" referrerpolicy="no-referrer">
+                <img src="/loveit/%e6%88%91%e4%bb%ac%e7%9a%84%e5%9c%b0%e7%90%83%e5%be%88%e7%83%ad%e6%83%85" referrerpolicy="no-referrer">
             </div>我们的地球很热情♨️]]></description>
 </item>
 </channel>
