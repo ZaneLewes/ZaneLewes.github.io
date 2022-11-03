@@ -201,3 +201,13 @@ other = "更改"
 [deleted]
 other = "删除"
 # === shortcodes/version.html ===
+
+
+[reward]
+  other = "赞赏支持"
+
+[rewardAlipay]
+  other = "支付宝打赏"
+
+[rewardWechat]
+  other = "微信打赏"
