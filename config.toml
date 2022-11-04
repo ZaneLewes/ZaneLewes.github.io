@@ -670,7 +670,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Analytics config
   # 网站分析配置
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
       id = ""
@@ -683,6 +683,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # server url for your tracker if you're self hosting
       # 自行托管追踪器时的主机路径
       server = ""
+
+    # Baidu Analytics
+    # 百度统计
+    [params.analytics.baidu]
+      id = "df27921837cae1334c0144ab520176dd"
+
+
     # Plausible Analytics
     [params.analytics.plausible]
       dataDomain = ""
