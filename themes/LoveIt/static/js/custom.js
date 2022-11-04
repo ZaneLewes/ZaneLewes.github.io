@@ -17,6 +17,7 @@ $(function () {
 });
 
 
+
 /* 鼠标点击文字特效 */
 var a_idx = 0;
 var a_click = 1;
