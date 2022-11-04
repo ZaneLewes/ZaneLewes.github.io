@@ -144,11 +144,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # 标题名称
       name = "大好人"
       # you can add extra information before the name (HTML format is supported), such as icons
-      # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i> "
+      # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标 fa-kiss-wink-heart fa-fw
+      pre = "🦹"
+      # pre = "<i class='far fa-face-meh-blank' aria-hidden='true'></i> "
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标  far fa-grin-tears
-      post = "<i class='far fa-face-grin-stars' aria-hidden='true'></i>"
+      post = ""
       # whether to use typeit animation for title name
       # 是否为标题显示打字机动画
       typeit = false
