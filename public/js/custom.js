@@ -1,18 +1,16 @@
 /* 轮播背景图片 */
 $(function () {
 	$.backstretch([
-		"https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211041635981.png",
-		"https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211041635980.jpg",
-		"https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211041635978.png"
+		"https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211041833068.png",
+		"https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211041833066.jpg"
 	], { duration: 60000, fade: 1500 });
 });
 
 /* 轮播背景图片 */
 $(function () {
 	$.backstretch([
-		  $cdnPrefix + "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211041635981.png",
-		  $cdnPrefix + "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211041635980.jpg",
-		  $cdnPrefix + "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211041635978.png"
+		  $cdnPrefix + "","https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211041833068.png",
+		  $cdnPrefix + "","https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211041833066.jpg"
 	], { duration: 60000, fade: 1500 });
 });
 
