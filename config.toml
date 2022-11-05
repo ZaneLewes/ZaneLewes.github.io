@@ -91,12 +91,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Categories"
     url = "/categories/"
     title = ""
-  [[menu.main]]
-    pre = "<i class='fas fa-fw fa-search'></i>"
-    name = "搜索"
-    weight = 7
-    identifier = "search"
-    url = "/search/"
+  # [[menu.main]]
+    # pre = "<i class='fas fa-fw fa-search'></i>"
+    # name = "搜索"
+    # weight = 7
+    # identifier = "search"
+    # url = "/search/"
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -852,14 +852,26 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "Categories"
         url = "/categories/"
         title = ""
-      [[languages.en.menu.main]]
+      # [[languages.en.menu.main]]
+        # weight = 4
+        # identifier = "documentation"
+        # pre = ""
+        # post = ""
+        # name = "Docs"
+        # url = "/categories/documentation/"
+        # title = ""
+      
+      [[languages.zh-cn.menu.main]]
         weight = 4
-        identifier = "documentation"
+        identifier = "hot"
         pre = ""
         post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
+        name = "🌠Hot"
+        url = "/hot/"
         title = ""
+      
+      
+      
       [[languages.en.menu.main]]
         weight = 5
         identifier = "about"
@@ -877,12 +889,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         url = "https://github.com/ZaneLewes/"
         title = "GitHub"
 
-      [[languages.en.menu.main]]
-	      pre = "<i class='fas fa-fw fa-search'></i>"
-	      name = "Search"
-	      weight = 7
-	      identifier = "search"
-	      url = "/search/"
+      # [[languages.en.menu.main]]
+	      # pre = "<i class='fas fa-fw fa-search'></i>"
+	      # name = "Search"
+	      # weight = 7
+	      # identifier = "search"
+	      # url = "/search/"
 
 
     [languages.en.params]
@@ -957,13 +969,25 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "分类"
         url = "/categories/"
         title = ""
+      # [[languages.zh-cn.menu.main]]
+        # weight = 4
+        # identifier = "documentation"
+        # pre = ""
+        # name = "文档"
+        # url = "/categories/documentation/"
+        # title = ""
+      
+      
       [[languages.zh-cn.menu.main]]
         weight = 4
-        identifier = "documentation"
+        identifier = "hot"
         pre = ""
-        name = "文档"
-        url = "/categories/documentation/"
+        post = ""
+        name = "🌠热榜"
+        url = "/hot/"
         title = ""
+      
+      
       [[languages.zh-cn.menu.main]]
         weight = 5
         identifier = "about"
@@ -981,12 +1005,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         url = "https://github.com/ZaneLewes/"
         title = "GitHub"
 
-      [[languages.zh-cn.menu.main]]
-	      pre = "<i class='fas fa-fw fa-search'></i>"
-	      name = ""
-	      weight = 7
-	      identifier = "search"
-	      url = "/search/"
+      # [[languages.zh-cn.menu.main]]
+	      # pre = "<i class='fas fa-fw fa-search'></i>"
+	      # name = ""
+	      # weight = 7
+	      # identifier = "search"
+	      # url = "/search/"
 
     [languages.zh-cn.params]
       [languages.zh-cn.params.search]
