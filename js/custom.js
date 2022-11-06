@@ -2,7 +2,6 @@
 
 $(function () {
 	$.backstretch([
-		"https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211061440698.gif",
 		"https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211042110890.png",
 		"https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211042120208.png",
 		"https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211042142032.png",
