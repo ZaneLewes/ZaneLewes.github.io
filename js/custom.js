@@ -1,4 +1,4 @@
- /* 轮播背景图片 */
+/* 轮播背景图片 */
 
 $(function () {
 	$.backstretch([
