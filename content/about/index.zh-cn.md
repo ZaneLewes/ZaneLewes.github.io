@@ -20,11 +20,13 @@ math:
 
 
 
-
 #### 分享一些学习工作中的瞬间
-![](https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211030022120.jpg)  
-![](https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211030022122.jpg)![](https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211030022126.jpg)   
+![](https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211071728141.jpg)  
 
 <div align="center">
-   <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211030022125.jpg"  width=32%> <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211030022124.jpg" width=32%> <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211030022123.jpg" width=32%>
+   <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211071728134.jpg"  width=49%> <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211071728139.jpg" width=49%> 
+</div>
+
+<div align="center">
+   <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211071728136.jpg"  width=32%> <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211071728137.jpg" width=32%> <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211071728140.jpg" width=32%>
 </div>
