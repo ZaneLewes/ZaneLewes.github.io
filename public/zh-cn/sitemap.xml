@@ -4,6 +4,17 @@
     ><url>
             <loc>https://zanelewes.github.io/111/</loc><lastmod>2022-10-23T12:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>https://zanelewes.github.io/geothermal_introduction/</loc><lastmod>2022-11-02T01:26:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zanelewes.github.io/geothermal_hydrogeochemistry/</loc><lastmod>2022-11-06T22:29:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zanelewes.github.io/posts/</loc><lastmod>2022-11-06T22:29:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zanelewes.github.io/</loc><lastmod>2022-11-06T22:29:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://zanelewes.github.io/en/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://zanelewes.github.io/"
+                    /></url><url>
             <loc>https://zanelewes.github.io/categories/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -16,7 +27,6 @@
             <loc>https://zanelewes.github.io/tags/gmt/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://zanelewes.github.io/categories/gmt/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://zanelewes.github.io/tags/mapping/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://zanelewes.github.io/posts/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://zanelewes.github.io/tags/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -25,15 +35,6 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://zanelewes.github.io/tags/"
-                    /></url><url>
-            <loc>https://zanelewes.github.io/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://zanelewes.github.io/en/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://zanelewes.github.io/"
                     /></url><url>
             <loc>https://zanelewes.github.io/gmt_s2/</loc><lastmod>2022-11-02T20:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://zanelewes.github.io/gmt_s1/</loc><lastmod>2022-11-02T20:40:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
