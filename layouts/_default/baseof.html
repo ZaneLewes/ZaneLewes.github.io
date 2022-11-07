@@ -1,3 +1,4 @@
+
 {{- partial "init.html" . -}}
 
 <!DOCTYPE html>
@@ -12,6 +13,9 @@
         {{- partial "head/link.html" . -}}
         {{- partial "head/seo.html" . -}}
     </head>
+    
+    {{- partial "fire.html" . -}}
+    
     <body data-header-desktop="{{ .Site.Params.header.desktopMode }}" data-header-mobile="{{ .Site.Params.header.mobileMode }}">
         {{- /* Check theme isDark before body rendering */ -}}
         {{- $theme := .Site.Params.defaulttheme -}}
@@ -45,9 +49,11 @@
         </div>
 
         {{- /* Load JavaScript scripts and CSS */ -}}
+        
+        
         {{- partial "assets.html" . -}}
 
-        {{- partial "fire.html" . -}}        
+                
 
 
     </body>
