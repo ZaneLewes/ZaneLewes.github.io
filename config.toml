@@ -527,7 +527,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = false
+        enable = true
         appId = "ThxwZyWZsRfzxxRG7rNQRUCl-gzGzoHsz"
         appKey = "D75Piyjyga83W0b9hGDbAUut"
         placeholder = ""
@@ -558,14 +558,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Waline comment config (https://waline.js.org/)
       # Waline 评论系统设置 (https://waline.js.org/)
       [params.page.comment.waline]
-        enable = true
+        enable = false
         #js = "https://cdn.jsdelivr.net/npm/@waline/client@latest"
         js = "https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js"
         meta = ['nick','mail','link']                           # 评论者相关属性
         requiredMeta = ['nick','mail']                        # 设置必填项，默认匿名
         login = "force"                                         # 评论必须先登录，用于防护恶意攻击
         placeholder = "为防恶意灌水攻击，评论前需注册并登录，望见谅~"     # 评论框占位提示符
-        serverURL = "https://dahaoren.vercel.app"                 # Waline的服务端地址（必填） 
+        serverURL = "https://dahaorena.vercel.app"                 # Waline的服务端地址（必填） 
         #imageHosting =                                         # 图床api，如果允许评论框上传图片
         uploadImage = false                                     # 评论上传图片功能
         avatar = "retro"                                        # Gravatar头像
