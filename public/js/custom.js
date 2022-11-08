@@ -8,7 +8,7 @@ $(function () {
 		"https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211042142032.png",
 		"https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211081655996.png",
 		"https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211081655996.png"
-	], { duration: 1000, fade: 1500 });
+	], { duration: 6666, fade: 1500 });
 });
 
 
