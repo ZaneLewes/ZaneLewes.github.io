@@ -560,7 +560,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       [params.page.comment.waline]
         enable = true
         #js = "https://cdn.jsdelivr.net/npm/@waline/client@latest"
-        js = "https://unpkg.com/@waline/client@v2/dist/waline.js"
+        js = "https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js"
         meta = ['nick','mail','link']                           # 评论者相关属性
         requiredMeta = ['nick','mail']                        # 设置必填项，默认匿名
         login = "force"                                         # 评论必须先登录，用于防护恶意攻击
