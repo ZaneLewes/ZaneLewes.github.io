@@ -122,3 +122,19 @@ article .post-reward .qr-code .image {
 }
 
 
+/* 文章元数据meta */
+.post-meta .post-meta-line:nth-child(2) i:nth-child(1) {
+    margin-left: 0;
+}
+.post-meta .post-meta-line:nth-child(2) i {
+    margin-left: 0.3rem;
+}
+.post-meta .post-meta-line:nth-child(2) span i {
+    margin-left: 0.3rem !important;
+}
+.post-meta a#post-meta-vcount {
+    color: #a9a9b3;
+    &:hover {
+        color: #2d96bd;
+    }
+}
