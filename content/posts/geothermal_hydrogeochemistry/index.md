@@ -3,10 +3,10 @@ title: "地热资源中的水文地球化学"
 subtitle: ""
 date: 2022-11-06T22:29:05+08:00
 lastmod: 2022-11-06T22:29:05+08:00
-draft: true
+draft: false
 author: "俺是大好人啊"
 authorLink: "https://zanelewes.github.io"
-description: ""
+description: "待更新......"
 
 reward: true
 
@@ -14,7 +14,7 @@ tags: ["hydrogeochemistry"]
 categories: ["geothermal"]
 
 featuredImage: ""
-featuredImagePreview: ""
+featuredImagePreview: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211091452131.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
