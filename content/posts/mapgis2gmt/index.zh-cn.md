@@ -281,15 +281,15 @@ Mapgis点文件和线文件可以直接利用Mapgis中的`图形处理➡️格�
 14. Win+R 打开运行框---输入cmd---确定---通过dos命令（cd XXX/XXX）进入存储shp文件的文件目录；  
 <div align="center">
    <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211091412863.png"  width=80%> 
-</div>
-15. 通过GDAL包的相关命令将shp文件转换为GMT文件；  
+</div>  
 
-
+### 格式转换
+通过GDAL包的相关命令将shp文件转换为GMT文件；  
 ```
 ogr2ogr -f "OGR_GMT" *.gmt *.shp  
-```  
-<br>
-16. 到这一步为止，数据处理完成，所生成的gmt文件已经可以在GMT中用于绘图；
+```
+
+到这一步为止，数据处理完成，所生成的gmt文件已经可以在GMT中用于绘图；
 
 ## 关于配色
 &emsp;&emsp;打开生成的gmt文件，可以在找到其中添加的属性名称和属性值，在调用`cpt`文件时，会选择对应的属性值，因此在`cpt`文件中可以根据具体设置的属性值，配用不同的RGB颜色，这样在运行时，即可填充所设置的颜色。
