@@ -14,7 +14,7 @@ tags: ["GMT","Mapping"]
 categories: ["GMT"]
 
 featuredImage: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202210250831572.png"
-featuredImagePreview: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202210250831572.png"
+featuredImagePreview: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211091452129.JPG"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
