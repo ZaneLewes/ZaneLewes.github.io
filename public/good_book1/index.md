@@ -11,7 +11,7 @@
 <object data="goodbook1.pdf" type="application/pdf" width="100%" height= "700px">
     <embed src="goodbook1.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it:
-        <a href="goodbook1.pdf">Download PDF</a>.</p>
+        <a href="goodbook1.pdf">Download PDF</a>推荐在PC端使用Chrome、Edge浏览器浏览.</p>
     </embed>
 </object>
 
