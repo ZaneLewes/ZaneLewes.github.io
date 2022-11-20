@@ -6,7 +6,7 @@ lastmod: 2022-11-20T21:53:46+08:00
 draft: false
 author: "俺是大好人啊"
 authorLink: "https://zanelewes.github.io"
-description: ""
+description: "好书推荐-地热资源中的同位素红宝书"
 
 reward: true
 
