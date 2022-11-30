@@ -1,1 +1,16 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>hydrogeochemistry - 标签 - 俺是大好人啊</title><link>https://zanelewes.github.io/tags/hydrogeochemistry/</link><description>hydrogeochemistry - 标签 - 俺是大好人啊</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tennis_forever@163.com (俺是大好人啊)</managingEditor><webMaster>tennis_forever@163.com (俺是大好人啊)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 06 Nov 2022 22:29:05 +0800</lastBuildDate><atom:link href="https://zanelewes.github.io/tags/hydrogeochemistry/" rel="self" type="application/rss+xml"/><item><title>地热资源中的水文地球化学</title><link>https://zanelewes.github.io/geothermal_hydrogeochemistry/</link><pubDate>Sun, 06 Nov 2022 22:29:05 +0800</pubDate><author>俺是大好人啊</author><guid>https://zanelewes.github.io/geothermal_hydrogeochemistry/</guid><description>待更新......</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>hydrogeochemistry - 标签 - 俺是大好人啊</title>
+        <link>https://zanelewes.github.io/tags/hydrogeochemistry/</link>
+        <description>hydrogeochemistry - 标签 - 俺是大好人啊</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tennis_forever@163.com (俺是大好人啊)</managingEditor>
+            <webMaster>tennis_forever@163.com (俺是大好人啊)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 06 Nov 2022 22:29:05 &#43;0800</lastBuildDate><atom:link href="https://zanelewes.github.io/tags/hydrogeochemistry/" rel="self" type="application/rss+xml" /><item>
+    <title>地热资源中的水文地球化学</title>
+    <link>https://zanelewes.github.io/geothermal_hydrogeochemistry/</link>
+    <pubDate>Sun, 06 Nov 2022 22:29:05 &#43;0800</pubDate>
+    <author>俺是大好人啊</author>
+    <guid>https://zanelewes.github.io/geothermal_hydrogeochemistry/</guid>
+    <description><![CDATA[待更新......]]></description>
+</item>
+</channel>
+</rss>
