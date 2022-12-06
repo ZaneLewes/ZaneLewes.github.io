@@ -10,8 +10,8 @@ description: "好书推荐-地热资源中的同位素红宝书"
 
 reward: true
 
-tags: []
-categories: []
+tags: ["好书推荐"]
+categories: ["好书推荐"]
 
 featuredImage: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211202226342.jpg"
 featuredImagePreview: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202211202226342.jpg"

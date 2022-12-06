@@ -1,9 +1,9 @@
 ---
 title: "地热资源中的水文地球化学"
 subtitle: ""
-date: 2022-11-06T22:29:05+08:00
+date: 2022-12-06T12:29:05+08:00
 lastmod: 2022-11-06T22:29:05+08:00
-draft: true
+draft: false
 author: "俺是大好人啊"
 authorLink: "https://zanelewes.github.io"
 description: "待更新......"
