@@ -4,7 +4,17 @@
         <link>https://zanelewes.github.io/categories/gmt/</link>
         <description>GMT - 分类 - 俺是大好人啊</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tennis_forever@163.com (俺是大好人啊)</managingEditor>
-            <webMaster>tennis_forever@163.com (俺是大好人啊)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 09 Nov 2022 11:18:54 &#43;0800</lastBuildDate><atom:link href="https://zanelewes.github.io/categories/gmt/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>tennis_forever@163.com (俺是大好人啊)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 09 Dec 2022 22:18:10 &#43;0800</lastBuildDate><atom:link href="https://zanelewes.github.io/categories/gmt/" rel="self" type="application/rss+xml" /><item>
+    <title>一些GMT技巧示例</title>
+    <link>https://zanelewes.github.io/someskill_gmt/</link>
+    <pubDate>Fri, 09 Dec 2022 22:18:10 &#43;0800</pubDate>
+    <author>俺是大好人啊</author>
+    <guid>https://zanelewes.github.io/someskill_gmt/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://my--obsidian.oss-cn-beijing.aliyuncs.com/img/202212092153962.png" referrerpolicy="no-referrer">
+            </div>哈哈，可能是又学了点新东西！🤙🤙🤙]]></description>
+</item>
+<item>
     <title>Mapgis文件怎么用在GMT绘图</title>
     <link>https://zanelewes.github.io/mapgis2gmt/</link>
     <pubDate>Wed, 09 Nov 2022 11:18:54 &#43;0800</pubDate>

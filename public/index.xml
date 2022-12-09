@@ -4,7 +4,7 @@
         <link>https://zanelewes.github.io/</link>
         <description>大好人的网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tennis_forever@163.com (俺是大好人啊)</managingEditor>
-            <webMaster>tennis_forever@163.com (俺是大好人啊)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 06 Dec 2022 12:29:05 &#43;0800</lastBuildDate>
+            <webMaster>tennis_forever@163.com (俺是大好人啊)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 09 Dec 2022 22:18:10 &#43;0800</lastBuildDate>
             <atom:link href="https://zanelewes.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>个人网站创建纪念👋</title>
@@ -23,6 +23,16 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/%e6%88%91%e4%bb%ac%e7%9a%84%e5%9c%b0%e7%90%83%e5%be%88%e7%83%ad%e6%83%85" referrerpolicy="no-referrer">
             </div>我们的地球很热情♨️]]></description>
+</item>
+<item>
+    <title>一些GMT技巧示例</title>
+    <link>https://zanelewes.github.io/someskill_gmt/</link>
+    <pubDate>Fri, 09 Dec 2022 22:18:10 &#43;0800</pubDate>
+    <author>俺是大好人啊</author>
+    <guid>https://zanelewes.github.io/someskill_gmt/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://my--obsidian.oss-cn-beijing.aliyuncs.com/img/202212092153962.png" referrerpolicy="no-referrer">
+            </div>哈哈，可能是又学了点新东西！🤙🤙🤙]]></description>
 </item>
 <item>
     <title>地热资源中的水文地球化学</title>
