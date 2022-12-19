@@ -181,7 +181,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     since = 2022
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
-    icp = ""
+    #icp = "鲁ICP备2022040775号"
+    icp = '<a href="http://beian.miit.gov.cn/">鲁ICP备2022040775号</a>'
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
     license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
@@ -528,8 +529,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = true
-        appId = "ThxwZyWZsRfzxxRG7rNQRUCl-gzGzoHsz"
-        appKey = "D75Piyjyga83W0b9hGDbAUut"
+        appId = "UutT3YyYhE4QLdppt2aMK4wW-gzGzoHsz"
+        appKey = "R8gsiHBUo3M4ndTqyyYm4lcN"
         placeholder = ""
         avatar = "mp"
         meta= ""
@@ -542,7 +543,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         highlight = true
         enableQQ = false
         #serverURLs = "https://thxwzywz.lc-cn-n1-shared.com"
-        serverURLs = "https://thxwzywz.lc-cn-n1-shared.com"
+        serverURLs = "https://uutt3yyy.lc-cn-n1-shared.com"
         # emoji data file name, default is "google.yml"
         # ["apple.yml", "google.yml", "facebook.yml", "twitter.yml"]
         # located in "themes/LoveIt/assets/lib/valine/emoji/" directory

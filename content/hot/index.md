@@ -55,7 +55,7 @@ ul#hot li {
 
 <div><ul id="hot"></ul></div>
 <script src="https://cdn.jsdelivr.net/npm/leancloud-storage@3.10.0/dist/av-min.js"></script>
-<script>AV.initialize("ThxwZyWZsRfzxxRG7rNQRUCl-gzGzoHsz", "D75Piyjyga83W0b9hGDbAUut");</script>
+<script>AV.initialize("UutT3YyYhE4QLdppt2aMK4wW-gzGzoHsz", "R8gsiHBUo3M4ndTqyyYm4lcN");</script>
 <script type="text/javascript">
   var time=0
   var title=""
