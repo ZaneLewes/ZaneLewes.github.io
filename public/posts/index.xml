@@ -4,7 +4,7 @@
         <link>https://zanelewes.github.io/posts/</link>
         <description>所有文章 | 俺是大好人啊</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tennis_forever@163.com (俺是大好人啊)</managingEditor>
-            <webMaster>tennis_forever@163.com (俺是大好人啊)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 19 Dec 2022 16:40:46 &#43;0800</lastBuildDate><atom:link href="https://zanelewes.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>tennis_forever@163.com (俺是大好人啊)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 23 Dec 2022 02:35:58 &#43;0800</lastBuildDate><atom:link href="https://zanelewes.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>个人网站创建纪念👋</title>
     <link>https://zanelewes.github.io/111/</link>
     <pubDate>Sun, 23 Oct 2022 12:00:00 &#43;0800</pubDate>
@@ -21,6 +21,14 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/%e6%88%91%e4%bb%ac%e7%9a%84%e5%9c%b0%e7%90%83%e5%be%88%e7%83%ad%e6%83%85" referrerpolicy="no-referrer">
             </div>我们的地球很热情♨️]]></description>
+</item>
+<item>
+    <title>Index</title>
+    <link>https://zanelewes.github.io/testrecord/</link>
+    <pubDate>Fri, 23 Dec 2022 02:35:58 &#43;0800</pubDate>
+    <author>俺是大好人啊</author>
+    <guid>https://zanelewes.github.io/testrecord/</guid>
+    <description><![CDATA[]]></description>
 </item>
 <item>
     <title>新加个网址</title>
@@ -87,16 +95,6 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202210250831583.png" referrerpolicy="no-referrer">
             </div>GMT绘图系列]]></description>
-</item>
-<item>
-    <title>GMT简介</title>
-    <link>https://zanelewes.github.io/gmt_intro/</link>
-    <pubDate>Wed, 02 Nov 2022 17:52:30 &#43;0800</pubDate>
-    <author>暗示大好人啊</author>
-    <guid>https://zanelewes.github.io/gmt_intro/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202210250831572.png" referrerpolicy="no-referrer">
-            </div>GMT绘图系列——从这里开始，简单介绍GMT绘图！👨🏽‍💻]]></description>
 </item>
 </channel>
 </rss>
