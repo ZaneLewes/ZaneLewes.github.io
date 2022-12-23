@@ -1,19 +1,19 @@
 ---
-title: "试验日志"
+title: "实验日志"
 subtitle: "高温高压水岩反应试验"
-date: 2022-12-23T02:35:58+08:00
-lastmod: 2022-12-23T02:35:58+08:00
+date: 2022-12-23T11:23:12+08:00
+lastmod: 2022-12-23T11:23:12+08:00
 draft: false
 author: "俺是大好人啊"
 authorLink: "https://zanelewes.github.io"
 description: "脑子不够用了，还是得记下来🤪(密码提示：试验开始时间)"
 
-password: 20221222
-
 reward: true
 
 tags: []
 categories: []
+
+# password: 20221222
 
 featuredImage: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202212230315780.jpg"
 featuredImagePreview: ""
@@ -63,20 +63,74 @@ seo:
 
 <!--more-->
 
+# 试验日志
+
+
+<!--more-->
+
 # 高温高压水岩反应试验
 
 ## 实验目的
 
 ## 实验设计
-| 编号 | 压力(MPa) | 工质     | 温度(℃) | 水样采集节点时间       |
-| ---- | --------- | -------- | ------- | ---------------------- |
-| 1    | 20        | 野外水样 | 180     | 每四小时对工质取样一次 |
-| 2    | 20        | HCl溶液  |         |                        |
-| 3    | 30        | 纯水     |         |                        |
-| 4    | 30        | HCl溶液  |         |                        |
-| 5    | 40        | 纯水     |         |                        |
-| 6    | 40        | NaCl溶液 |         |                        |
-| 7    | 40        | HCl溶液  |         |                        |
+<table>
+    <tr>
+        <th colspan="5">水岩反应试验</th>
+    </tr>
+    <tr>
+        <th>编号</th>
+        <th>压力(Mpa)</th>
+        <th>工质</th>
+        <th>温度(℃)</th>
+        <th>水样采集节点时间(h)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>20</td>
+        <td>野外水样</td>
+        <td rowspan="7">180</td>
+        <td rowspan="7">每4小时对工质取样一次，持续48小时。</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>20</td>
+        <td>HCl溶液</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>30</td>
+        <td>纯水</td>
+	 </tr>
+    <tr>
+        <td>4</td>
+        <td>30</td>
+        <td>HCl溶液</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>40</td>
+        <td>纯水</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>40</td>
+        <td>NaCl溶液</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>40</td>
+        <td>HCl溶液</td>
+	</tr>
+    <tr>
+        <td colspan="5">配置HCl溶液pH=4，NaCl溶液浓度为5mol/L。</td>
+    </tr>
+    <tr>
+        <td colspan="5">可能变化较为明显的离子组分 K<sup>+</sup> Ca<sup>2+</sup> Na<sup>+</sup> Mg<sup>2+</sup> F<sup>-</sup> Cl<sup>-</sup> CO<sup>3-</sup> HCO<sup>3-</sup></td>
+    </tr>
+    <tr>
+        <td colspan="5">记录流体组分、特征；流体体积、流量、流速；水样品体积等参数</td>
+    </tr>
+</table>
 
 ## 日志
 ###  2022年12月21日
@@ -109,6 +163,14 @@ seo:
    <img src="https://my--obsidian.oss-cn-beijing.aliyuncs.com/img/202212230308824.jpg"  width=49%> 
 </div>
 五点半，尽量起床。
+
+
+
+
+
+
+
+
 
 
 
