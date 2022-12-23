@@ -96,6 +96,8 @@
 </div>
 终于在晚上九点半正式开始，202212222130正式计时。
 
+感谢师弟师妹们的帮忙，抬东西真挺沉。
+
 ### 2022年12月23日
 凌晨一点半，第一次取样。很给面子，没出状况，目前有个很大的问题就是，温度过高，水分蒸发散失，无法估量。
 
@@ -103,6 +105,15 @@
    <img src="https://my--obsidian.oss-cn-beijing.aliyuncs.com/img/202212230308824.jpg"  width=49%> 
 </div>
 五点半，尽量起床。
+
+截止到上午九点半，采样三次。
+
+<div align="center">
+   <img src="https://my--obsidian.oss-cn-beijing.aliyuncs.com/img/202212230308824.jpg"  width=32%> 
+   <img src="https://my--obsidian.oss-cn-beijing.aliyuncs.com/img/202212231245320.jpg"  width=32%>
+   <img src="https://my--obsidian.oss-cn-beijing.aliyuncs.com/img/202212231245319.jpg"  width=32%>
+</div>
+
 
 
 
