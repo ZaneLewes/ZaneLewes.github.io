@@ -1,5 +1,5 @@
 ---
-title: "实验日志"
+title: "实验日记"
 subtitle: "高温高压水岩反应试验"
 date: 2022-12-23T11:23:12+08:00
 lastmod: 2022-12-23T11:23:12+08:00
@@ -13,7 +13,7 @@ reward: true
 tags: []
 categories: []
 
-password: 20221222
+# password: 20221222
 
 featuredImage: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202212230315780.jpg"
 featuredImagePreview: ""
@@ -63,16 +63,16 @@ seo:
 
 <!--more-->
 
-# 试验日志
+# 试验日记
 
 
 <!--more-->
 
 # 高温高压水岩反应试验
 
-## 实验目的
+## 试验目的
 
-## 实验设计
+## 试验设计
 <table>
     <tr>
         <th colspan="5">水岩反应试验</th>
@@ -156,6 +156,8 @@ seo:
 </div>
 终于在晚上九点半正式开始，202212222130正式计时。
 
+5号岩石样品，加压30MPa，温度180℃，使用超纯水工质。
+
 感谢师弟师妹们的帮忙，抬东西真挺沉。
 
 ### 2022年12月23日
@@ -173,9 +175,15 @@ seo:
    <img src="https://my--obsidian.oss-cn-beijing.aliyuncs.com/img/202212231245320.jpg"  width=32%>
    <img src="https://my--obsidian.oss-cn-beijing.aliyuncs.com/img/202212231245319.jpg"  width=32%>
 </div>
+21点30分，设备故障，泵无法吸液排液，待修。
 
+### 2022年12月24日
 
+整理设备，准备寄修，感谢老师帮忙联系维修资金。
 
+清空反应釜，水样颜色淡黄色，体积约400ml。
+
+![](https://my--obsidian.oss-cn-beijing.aliyuncs.com/img/202212241933680.jpg)
 
 
 
