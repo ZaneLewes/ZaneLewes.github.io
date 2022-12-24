@@ -13,7 +13,7 @@ reward: true
 tags: []
 categories: []
 
-# password: 20221222
+password: 20221222
 
 featuredImage: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202212230315780.jpg"
 featuredImagePreview: ""
