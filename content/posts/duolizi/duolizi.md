@@ -6,7 +6,7 @@ lastmod: 2023-07-29T12:47:39+08:00
 draft: false
 author: "俺是大好人啊"
 authorLink: "https://zanelewes.github.io"
-description: "地热研究中的水文地球化学系列（一）"
+description: "地热资源中的水文地球化学系列（二）"
 
 reward: true
 

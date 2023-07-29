@@ -15,16 +15,6 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>地热资源简介🌋</title>
-    <link>https://zanelewes.github.io/geothermal_introduction/</link>
-    <pubDate>Wed, 02 Nov 2022 01:26:05 &#43;0800</pubDate>
-    <author>俺是大好人啊</author>
-    <guid>https://zanelewes.github.io/geothermal_introduction/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/%e6%88%91%e4%bb%ac%e7%9a%84%e5%9c%b0%e7%90%83%e5%be%88%e7%83%ad%e6%83%85" referrerpolicy="no-referrer">
-            </div>我们的地球很热情♨️]]></description>
-</item>
-<item>
     <title>系列简介</title>
     <link>https://zanelewes.github.io/duolizi/</link>
     <pubDate>Sat, 29 Jul 2023 12:47:39 &#43;0800</pubDate>
@@ -32,7 +22,7 @@
     <guid>https://zanelewes.github.io/duolizi/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202307291254124.png" referrerpolicy="no-referrer">
-            </div>地热研究中的水文地球化学系列（一）]]></description>
+            </div>地热资源中的水文地球化学系列（二）]]></description>
 </item>
 <item>
     <title>实验日记</title>
@@ -101,6 +91,16 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202210250831583.png" referrerpolicy="no-referrer">
             </div>GMT绘图系列]]></description>
+</item>
+<item>
+    <title>GMT简介</title>
+    <link>https://zanelewes.github.io/gmt_intro/</link>
+    <pubDate>Wed, 02 Nov 2022 17:52:30 &#43;0800</pubDate>
+    <author>暗示大好人啊</author>
+    <guid>https://zanelewes.github.io/gmt_intro/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202210250831572.png" referrerpolicy="no-referrer">
+            </div>GMT绘图系列——从这里开始，简单介绍GMT绘图！👨🏽‍💻]]></description>
 </item>
 </channel>
 </rss>
