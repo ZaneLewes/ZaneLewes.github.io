@@ -1,20 +1,20 @@
 ---
-title: "新加个网址"
+title: "系列简介"
 subtitle: ""
-date: 2022-12-19T16:40:46+08:00
-lastmod: 2022-12-19T16:40:46+08:00
+date: 2023-07-29T12:47:39+08:00
+lastmod: 2023-07-29T12:47:39+08:00
 draft: false
 author: "俺是大好人啊"
 authorLink: "https://zanelewes.github.io"
-description: ""
+description: "地热研究中的水文地球化学系列（一）"
 
 reward: true
 
-tags: []
-categories: []
+tags: [“多例子比例分析”]
+categories: [“geothermal”]
 
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202307291254124.png"
+featuredImagePreview: "https://zanelewes.oss-cn-beijing.aliyuncs.com/img/202307291252412.png"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -39,6 +39,7 @@ mapbox:
   # ...
 share:
   enable: true
+
   # ...
 comment:
   enable: true
@@ -59,9 +60,11 @@ seo:
   # ...
 ---
 
-欢迎点击这个[goood-man.top](https://goood-man.top/)，这个快
-
 <!--more-->
+
+# 水化学分析简介
+
+水热型地热资源是我国目前应用最多的地热资源类型，
 
 
 
